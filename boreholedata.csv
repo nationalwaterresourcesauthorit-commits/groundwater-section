@@ -1,4 +1,4 @@
-Easting,Northing,Name,T/A,Grant Number,Driller,Date Drilled,Abstraction Volume per day,District,Borehole Depth,Static Water Level,Yield l/s,Status,Functionality,Permanent Casing Diameter,Type of Pump Installed,Water Point Use,Licenced,Well Development Duration,Pump Capacity,Pump Installed Depth,Main Water Strike Depth (MBGL),DWL,Turbidity,Temp,Conductivity,pH,Alkalinity,Hardness,Calcium,Magnesium,Sodium,Potassium,Carbonate,Bicarbonate,Sulphate,Nitrate,Ammonium,Iron,Manganese,Flouride,Dissolved_Solids,Chlorine,Suspended_Solids,Facaeal,E. Coli
+Easting,Northing,Name,T/A,Grant_Number,Driller,Date Drilled,Abstraction Volume per day,District,Borehole Depth,Static Water Level,Yield l/s,Status,Functionality,Permanent Casing Diameter,Type of Pump Installed,Water Point Use,Licenced,Well Development Duration,Pump Capacity,Pump Installed Depth,Main Water Strike Depth (MBGL),DWL,Turbidity,Temp,Conductivity,pH,Alkalinity,Hardness,Calcium,Magnesium,Sodium,Potassium,Carbonate,Bicarbonate,Sulphate,Nitrate,Ammonium,Iron,Manganese,Flouride,Dissolved_Solids,Chlorine,Suspended_Solids,Facaeal,E. Coli
 489223,8475741,Mchinji Water Office,Mikundi,,Borehole Construction Fund,,,Mchinji,0.00001,0.00001,0.00001,Dry well,Functional,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 509098,8486845,Mnkhota/Mozi,Mikundi,,Sawa Group,12/5/2016,,Mchinji,0.00001,0.00001,0.00001,Dry well,Functional,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 519763,8483561,Kalinde,Kalulu,,Sawa Group,6/20/2022,,Mchinji,0.00001,0.00001,0.00001,Dry well,Functional,,,,N/A,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -4648,3 +4648,4 @@ Easting,Northing,Name,T/A,Grant Number,Driller,Date Drilled,Abstraction Volume p
 742942,8421524,Nlanichapola,Chowe,GL826/2023,,,490,Mangochi,0.00001,,0.00001,,,,,Irrigation,YES,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,0.00001,,0.00001,,,,,,YES,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 575843,8452999,Chitipi,Njewa,GL831/2023,,,10,Lilongwe,0.00001,,0.00001,,,,,Industrial,YES,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
