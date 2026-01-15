@@ -185,6 +185,7 @@
 
 
 
+
   
 /* Inline radio/label alignment for borehole controls */
 .layer-option label { display:flex; align-items:center; gap:8px; cursor:pointer; }
@@ -565,10 +566,11 @@ L.control.layers(baseLayers).addTo(map);
 /* ==== Search restricted to Malawi ==== */
 L.Control.geocoder({
   defaultMarkGeocode: true,
+  position: 'topleft',
   geocoder: L.Control.Geocoder.nominatim({
     geocodingQueryParams: { countrycodes: 'MW' }
   })
-});
+}).addTo(map);
 
 /* ==== Tabs ==== */
 document.querySelectorAll(".tab").forEach(tab=>{
@@ -2224,6 +2226,3 @@ document.getElementById("gwQualitySelect").addEventListener("change", function (
 
 </div></body>
 </html>
-
-
-
